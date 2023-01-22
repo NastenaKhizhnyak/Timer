@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    text-align: center;
+    background: url(164-1644757_winter-wallpaper-hd.jpg) 50% 0%/cover ;
+    color: #fff;
+    font-family: 'Itim', Arial, Helvetica, sans-serif ;
+}
+
+h2{
+    font-size: 42px;
+    font-family: 'Itim' cursive;
+    margin-bottom: 10px;
+}
+b{
+    font-size: 36px;
+    letter-spacing: 7px;
+}
